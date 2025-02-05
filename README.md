@@ -6,5 +6,5 @@ Aquí encontrarás todos los archivos de la<br>
 > Programa principal<br>
 Mostrará por consola un simple "¡Hola mundo!"
 <br>
-> Practica4_! / Principal modificado<br>
+> Practica4_1, principal modificado<br>
 Mostrará por consola la fecha y hora actual.
