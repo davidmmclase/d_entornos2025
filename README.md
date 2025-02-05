@@ -1,4 +1,5 @@
-### CÓDIGO FUENTE PROYECTO d_entornos2025
+### PRÁCTICA 4_1 / Git inicial
 
-> práctica 4.1
-	*git inicial*
+> Practica4_1, principal modificado  
+> Mostrará por consola la fecha y hora actual.
+
