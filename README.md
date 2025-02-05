@@ -1,4 +1,4 @@
-### CÓDIGO FUENTE PROYECTO d_entornos2025
+### PRÁCTICA 4_1 / Git inicial
 
-> práctica 4.1
-	*git inicial*
+Aquí encontrarás todos los archivos de la 
+<ins>*primera*  **práctica**</ins> relacionada con Git.
